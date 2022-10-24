@@ -1,0 +1,37 @@
+1.Data Wrangling with MongoDB
+	Prepare Data
+		Connect
+		Explore
+		Import
+2.Linear Regression with time series data
+	Prepare Data
+		Connect
+		Explore
+		Import
+	Build Model
+		Baseline
+		Iterate
+		Evaluate
+	Communicate Result
+
+3.Autoregressive models
+	Prepare Data
+		Connect
+		Explore
+		Import
+	Build Model
+		Baseline
+		Iterate
+		Evaluate
+	Communicate Result
+4.Arma models and hyperparameter tuning
+	Prepare Data
+		Connect
+		Explore
+		Import
+	Build Model
+		Baseline
+		Iterate
+		Evaluate
+	Communicate Result
+5.Takeaways and Notes
