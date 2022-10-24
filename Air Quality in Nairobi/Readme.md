@@ -1,4 +1,5 @@
-Overview
+<B>Overview</b>
+
 In this project, work with data from one of Africa's largest open data platforms openAfrica. 
 Look at air quality data from Nairobi, Lagos, and Dar es Salaam; and build a time seriesmodel to predict PM 2.5 readings throughout the day.
 
