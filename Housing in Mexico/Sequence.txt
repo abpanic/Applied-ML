@@ -1,0 +1,18 @@
+1.Tabular and tidy data
+	Tabular Data and Python Data Sturcutures
+		Working with Lists
+		Working with Dict
+	Tabular Data and pandas Data Frames
+2.Data Wrangling with pandas
+	Import
+		Clean dfs
+		Concat Dataframes
+		Save
+3.Exploratory data analysis
+	Import Data
+		Location Data in lat and Lon
+		Categorical Data: state
+		Numerical Data
+4.Size or location
+	Importing Data
+	Researching to find co-relation
