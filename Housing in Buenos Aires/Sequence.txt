@@ -1,9 +1,41 @@
-Prepare Data
-	Import
-	Explore
-	Split
-Build Model
-	Baseline
-	Iterate
-	Evaluate
-Communicate Results
+1.Price and Size
+	Prepare Data
+		Import
+		Explore
+		Split
+	Build Model
+		Baseline
+		Iterate
+		Evaluate
+	Communicate Results
+2.Price and location
+	Prepare Data
+		Import
+		Explore
+		Split
+	Build Model
+		Baseline
+		Iterate
+		Evaluate
+	Communicate Results
+3.Price and neighborhood
+	Prepare Data
+		Import
+		Explore
+		Split
+	Build Model
+		Baseline
+		Iterate
+		Evaluate
+	Communicate Results
+4.Price and everything
+	Prepare Data
+		Import
+		Explore
+		Split
+	Build Model
+		Baseline
+		Iterate
+		Evaluate
+	Communicate Results
+
