@@ -1,0 +1,9 @@
+Prepare Data
+	Import
+	Explore
+	Split
+Build Model
+	Baseline
+	Iterate
+	Evaluate
+Communicate Results
